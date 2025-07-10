@@ -1,5 +1,7 @@
 • Mathematics Engineering graduate @ Istanbul Technical University
+
 • BI & DWH Developer
+
 • I am currently learning the basics of data analysis, data science & machine learning with Python.
 
 
