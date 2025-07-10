@@ -1,8 +1,10 @@
 • Mathematics Engineering graduate @ Istanbul Technical University
 
-• BI & DWH Developer
+• BI & DWH Specialist
 
-• I am currently learning the basics of data analysis, data science & machine learning with Python.
+• I use Microstrategy, Tableau, Power BI, T-SQL.
+
+• I am continuing to learn ETL, data analysis, data science & machine learning with Python.
 
 
 
