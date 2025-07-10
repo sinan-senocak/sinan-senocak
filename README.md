@@ -1,11 +1,8 @@
-• Hello, I’m @sinan-senocak
-
-• Senior year Mathematical Engineering student @ Istanbul Technical University
-
+• Mathematics Engineering graduate @ Istanbul Technical University
+• BI & DWH Developer
 • I am currently learning the basics of data analysis, data science & machine learning with Python.
 
 
-📫 How to reach me:
 
 
 • [linkedin](https://www.linkedin.com/in/sinansenocak/)
